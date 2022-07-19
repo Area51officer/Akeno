@@ -51,7 +51,7 @@ global.location = "Ur basement" //ur location
 
 //bot bomdy 
 global.owner = ['14318136969']
-global.ownertag = '14318136969'
+global.ownertag = '16106999265'
 global.botname = 'Samsung Girl Bot' //ur bot name
 global.linkz = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.instagram.com/hawt_kira/" //ur website to be displayed
