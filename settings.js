@@ -94,19 +94,19 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Here is your material babe ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'make me admin bae!',
-    owner: 'This Feature Is Only For my master Sam!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
+    success: 'hogaya vai',
+    admin: 'Chutiya hai kya? sirf admin ke liye hai ye!',
+    botAdmin: 'Lavde admin bana pehle!',
+    owner: 'sirf mere daddy sam ke liye',
+    group: 'Gandu group command hai!',
+    private: 'bas private me use kar ye command!',
+    bot: 'thoda sa bkl hai kya',
+    wait: 'Rukja bhsdke',
     linkm: 'Where is the link? nigg',
-    error: 'Error!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    error: 'SORRY VAI GAND PHAT GYI',
+    endLimit: 'ABHI LUNCH TIME HAI KAL ANA LIMIT HOGYI TERI PURI',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The Horny mode has not been activated, please contact the admin to activate',
+    nsfw: 'The tharki mode has not been activated, please contact the admin to activate. in the meantime visit pornhub',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
     global.limitawal = {
